@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+Thumbs.db
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & editors
+.vscode/
+.idea/
+*.swp
+*~
